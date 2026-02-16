@@ -1,0 +1,1 @@
+Place chess.js and chessboard.js here if you want local libs. You can also use CDN versions.
